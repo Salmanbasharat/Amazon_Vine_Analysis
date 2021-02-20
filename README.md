@@ -20,7 +20,7 @@ There are 13 '5-star' reviews by Vine members and 14475 '5-star' reviews by non-
 
 ### **Percentage of 5 Star reviews in each category**
 
-<img src='percentage of 5 star reviews.PNG'><img>
+<img src='Percentage of 5 star reviews.PNG'><img>
 
 As shown in the above code snippet, 59% reviews by Vine members were 5 star and 53.6% reviews were 5 star by non vine members.
 
